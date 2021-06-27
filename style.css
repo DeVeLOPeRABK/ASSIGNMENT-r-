@@ -6,8 +6,6 @@
     content: "";
     clear: both;
 	display: block;
-	
-
 }
 
 .fixwidth{
@@ -61,14 +59,12 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
     color: #fff;
 }
 /* banner-section */
-
 .banner {
     background-image: url(https://i.ibb.co/b7D0Dy4/178134199-505905787442083-5975638775884129539-n.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 150px 0;
-
 }
 .banner-content{
     text-align: center;
@@ -149,7 +145,6 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
 }
 .about{
     text-align: center;
-
 }
 .about h3 {
 	padding-bottom: 20px;
@@ -186,7 +181,6 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
 }
 
 /* contact-section */
-
 .contact-section{
     background-color: #f6f6f6;
     padding: 50px;
@@ -267,7 +261,6 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
 }.social-menu li:nth-child(5) a:hover{
     background-color:#751d62;
     color: #ffffff;
-
 }
 .fotter-bottom {
 	background: #000;
@@ -298,7 +291,6 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
         padding: 150px 0 120px 0;
     }
 }
-
 @media (max-width: 1024px) {
     .service-item {
         width: 50%;
